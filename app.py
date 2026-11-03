@@ -171,7 +171,7 @@ html, body, [class*="css"], .stMarkdown {
 st.markdown("""
 <div class="groww-header">
     <div class="groww-logo">
-        📈 Dishant's<span>AI Agent</span>
+        📈 Aditya,gourav's<span>AI Agent</span>
     </div>
     <div style="background-color: #e6fcf5; color: #00d09c; padding: 6px 14px; border-radius: 20px; font-weight: 600; font-size: 12px; display: flex; align-items: center; gap: 6px;">
         <span style="width: 8px; height: 8px; background-color: #00d09c; border-radius: 50%; display: inline-block; animation: pulse 1.5s infinite;"></span>
